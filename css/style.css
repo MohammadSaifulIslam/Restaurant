@@ -286,6 +286,7 @@ ol {
   z-index: 9;
   text-align: center;
   line-height: 50px;
+  cursor: pointer;
 }
 .next_arr {
   width: 50px;
@@ -308,6 +309,7 @@ ol {
   background: rgba(255, 0, 0, 0.6);
   text-align: center;
   line-height: 50px;
+  cursor: pointer;
 }
 .food_slider .slick-dots {
   display: flex;
@@ -325,6 +327,7 @@ ol {
   -o-border-radius: 50%;
   background: rgba(0, 0, 0, 0.6);
   margin-right: 10px;
+  cursor: pointer;
 }
 .food_slider .slick-dots li.slick-active button {
   width: 15px;
